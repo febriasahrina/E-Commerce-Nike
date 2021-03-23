@@ -2,7 +2,7 @@
 
 Deskripsi Aplikasi
 
-Aplikasi berbasis Web yang berisi informasi berupa produk sepatu Nike. Website ini terdiri atas produk-produk, berita-berita, foto, video, berita, dan informasi tentang Nike, pembelian produk secara online dan juga informasi terkait mengenai perusahaan itu sendiri.
+Aplikasi berbasis Web penjualan produk sepatu Nike. Website ini terdiri atas produk, berita, foto, video, dan informasi mengenai produk Nike.
 
 Dokumentasi Aplikasi
 
