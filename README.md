@@ -6,7 +6,8 @@ Aplikasi berbasis Web penjualan produk sepatu Nike. Website ini terdiri atas pro
 
 Dokumentasi Aplikasi
 
-![Screenshot (1880)](https://user-images.githubusercontent.com/35028561/112107414-7d3d3d80-8be1-11eb-8fd3-d1adab6d9dc2.png)
-![Screenshot (1881)](https://user-images.githubusercontent.com/35028561/112107419-80382e00-8be1-11eb-9bbb-dd97d43bdbf3.png)
-![Screenshot (1883)](https://user-images.githubusercontent.com/35028561/112107433-84644b80-8be1-11eb-8663-a070f3c03f35.png)
-![Screenshot (1885)](https://user-images.githubusercontent.com/35028561/112107470-8cbc8680-8be1-11eb-8b8d-b6359cbab893.png)
+![Screenshot (1880)](https://user-images.githubusercontent.com/35028561/112119421-f04db080-8bef-11eb-9b5c-81515f8bdabe.png)
+![Screenshot (1881)](https://user-images.githubusercontent.com/35028561/112119429-f348a100-8bef-11eb-893b-4b6898ed4850.png)
+![Screenshot (1883)](https://user-images.githubusercontent.com/35028561/112119442-f6439180-8bef-11eb-908b-b1a42758ad8a.png)
+![Screenshot (1885)](https://user-images.githubusercontent.com/35028561/112119454-f8a5eb80-8bef-11eb-97a0-80517933ac1e.png)
+
