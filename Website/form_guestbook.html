@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"> 
+	<link rel="stylesheet" type="text/css" href="css/guestbook.css">
+</head>
+<body>
+	<div style="width: 100%;">
+		<div id="hasil">
+		</div>
+		<div id="clear" style="position: relative;">
+			<form class="form_guestbook form_box">
+				<li><font color="red"></font> &nbsp&nbsp&nbsp </li>
+				<input id="name" type="text" name="Nama" placeholder="First Name*"><br>
+				<input id="last" type="text" name="Nama" placeholder="Last Name"><br>
+				<li> &nbsp&nbsp&nbsp </li>
+				<input id="email" type="text" name="E-mail" placeholder="E-mail"><br>
+				<li> </li>
+				<input id="Alamat" type="text" name="Alamat" placeholder="Address"><br>
+				<li><font color="red"></font> &nbsp&nbsp&nbsp </li>
+				<textarea id="Pesan" cols="10" name="message" placeholder="Your Message Here!*" rows="15" NAME="maintext"></textarea>
+				<input type="submit" name="submit" value="Send" id="submit">
+				<button class="btn btn-5 btn-5a icon-remove"><span>Clear</span></button>
+			</form>
+		</div>		
+	</div>
+</body>
+<script type="text/javascript" src="../js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#submit").click(function() {
+		var name = $("#name").val();
+		var last = $("#last").val();
+		var email = $("#email").val();
+		var Alamat = $("#Alamat").val();
+		var Pesan = $("#Pesan").val();
+		var Tanggal = Date();
+			if(name == ""){
+				alert('Name does not exist');
+			}
+			else if(Pesan == ""){
+				alert('Message does not exist');
+			}
+			else{
+				alert('                         Thanks for your feedback\n\n'+
+						'First Name       : '+name+'\n\nLast Name       : '+last+'\n\nE-mail              : '+email+'\n\nAddress           : ' +Alamat+ '\n\nMessage          : '+Pesan+ '\n\n\Date   : ' +Tanggal);
+				$('#clear').html('');
+				$('#hasil').append('<div class="box_coment">'+
+				'<table border="0">'+
+					'<tr><td>First Name </td><td> : '+name+'</td></tr>'+
+					'<tr><td>Last Name </td><td> : '+last+'</td></tr>'+
+					'<tr><td>E-mail </td><td> : '+email+'</td></tr>'+
+					'<tr><td>Address </td><td> : ' +Alamat+ '</td></tr>'+
+					'<tr><td>Message </td><td> : '+Pesan+ '</td></tr>'+
+					'<tr><td>Date&nbsp&nbsp&nbsp </td><td> : ' +Tanggal+'</td></tr>'+
+				'</table></div>');
+			}			
+			return false;
+		});
+
+
+
+	});
+
+
+</script>
+</html>

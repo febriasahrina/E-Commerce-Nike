@@ -1,0 +1,46 @@
+.table{
+	background: url(../../image/Iklan/layer.jpg);
+	height: 1670px;
+}
+
+.sitemap{
+	width: 70%;
+	height: auto;
+	background-color: white;
+	top: 140px;
+	left: 200px;
+	position: relative;
+	color: black;
+	border-radius: 30px 30px 30px 30px;
+	font: normal 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.sitemap h2{
+	padding: 10px;
+}
+
+.sitemap h4{
+	padding: 5px;
+}
+
+.lsitemap{
+	padding: 10px; 
+}
+
+.lsitemap li{
+	margin-left: 50px;
+}
+
+.lsitemap a{
+	text-decoration: none;
+	color: black;
+}
+
+.lsitemap2 li{
+	margin-left: 30px;
+}
+
+.lsitemap2 a{
+	text-decoration: none;
+	color: black;
+}

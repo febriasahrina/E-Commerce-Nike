@@ -1,0 +1,35 @@
+.news-layer{
+	height:1550px;
+}
+
+.content{
+	width:1000px;
+	height:900px;
+	position:absolute;
+	margin-left:175px; color:#fff;
+	font-family:HandelGothic BT; font-size:14px;
+}
+
+.content h1{
+	color:#76B900;
+}
+
+.content a{
+	text-decoration:none;
+	color:#76B900;
+}
+
+.content-content{
+	width:560px; height:365px;
+	margin-top:950px; margin-left:220px;
+	background-color:#667;
+}
+
+.content-content p{
+	font-family:HandelGothic BT; font-size:14px;
+}
+
+.content-content a{
+	text-decoration:none;
+	color:#76B900;
+}

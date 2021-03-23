@@ -1,0 +1,60 @@
+.exe{
+	top: 100px;
+	position: relative;
+}
+
+.philip{
+	top: -150px;
+	left: 470px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.kataphil{
+	top: -120px;
+	right: 265px;
+	position: relative;
+    font: normal 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: justify;
+	width: 40%;
+	float: right;
+}
+
+.fotophil img{
+	top: 170px;
+	left: 150px;
+	position: relative;
+	width: 20%;
+	border-radius: 200px 200px 200px 200px;
+}
+
+.mark{
+	left: 470px;
+	top: -150px;
+	position: relative;color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.katamark{
+	left: -260px;
+	top: -120px;
+	position: relative;font: normal 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: justify;
+	width: 40%;
+	float: right;
+}
+
+.fotomark img{
+	top: 170px;
+	left: 150px;
+	position: relative;
+	width: 20%;
+	border-radius: 200px 200px 200px 200px;
+}

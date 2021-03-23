@@ -1,0 +1,1036 @@
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+    background-color: #f6f6f6;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+	padding: 10px;
+	height: 40px;
+    width:850px;
+	
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content {
+    display: flex;
+    width:800px;
+	left: 200px;
+	top: 61px;
+}
+
+.dropdown-content a:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+	color: #EF9523;
+}
+
+.dropdown-content2 {
+    display: none;
+    position: absolute;
+    min-width: 160px;	
+}
+
+.dropdown-content2 li{
+	color: white;
+	width: 250px;
+	padding: 10px;
+	height: 20px;
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content2 {
+    display: flex;
+	background-image: url(../../image/drop1.png);
+	left: 200px;
+    width:800px;
+	top: 116px;
+}
+
+.dropdown-content3 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content3 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content3 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content3 {
+    display: flex;
+	background-image: url(../../image/drop2.png);
+	left: 200px;
+    width:800px;
+	top: 146px;
+}
+
+
+.dropdown-content4 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content4 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content4 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content4 {
+    display: flex;
+	background-image: url(../../image/drop3.png);
+	left: 200px;
+    width:800px;
+	top: 176px;
+}
+
+
+.dropdown-content5 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content5 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content5 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content5 {
+    display: flex;
+	background-image: url(../../image/drop4.png);
+	left: 200px;
+    width:800px;
+	top: 206px;
+}
+
+
+.dropdown-content6 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content6 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content6 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content6 {
+    display: flex;
+	background-image: url(../../image/drop5.png);
+	left: 200px;
+    width:800px;
+	top: 236px;
+}
+
+
+.dropdown-content7 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content7 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content7 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content7 {
+    display: flex;
+	background-image: url(../../image/drop6.png);
+	left: 200px;
+    width:800px;
+	top: 266px;
+}
+
+
+.dropdown-content8 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content8 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content8 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content8 {
+    display: flex;
+    background-image: url(../../image/drop7.png);
+	left: 200px;
+    width:800px;
+	top: 296px;
+}
+
+
+.dropdown-content9 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content9 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content9 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content9 {
+    display: flex;
+    background-image: url(../../image/drop8.png);
+	left: 200px;
+    width:800px;
+	top: 326px;
+}
+
+
+.dropdown-content10 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content10 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content10 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content10 {
+    display: flex;
+    background-image: url(../../image/drop9.png);
+	left: 200px;
+    width:800px;
+	top: 356px;
+}
+
+
+.dropdown-content11 {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content11 a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 20px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content11 a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8a:hover .dropdown-content11 {
+    display: flex;
+    background-image: url(../../image/drop10.png);
+	left: 200px;
+    width:800px;
+	top: 386px;
+}
+
+.dropdown-contentb {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+    background-color: #f6f6f6;
+	
+}
+
+/* Links inside the dropdown */
+.dropdown-contentb a {
+    color: black;
+    text-decoration: none;
+    display: block;
+	padding: 10px;
+	height: 40px;
+    width:800px;
+	
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-contentb {
+    display: flex;
+    width:800px;
+	left: 220px;
+	top: 61px;
+}
+
+.dropdown-contentb a:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+	color: #EF9523;
+}
+
+.dropdown-content2b {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+	ma
+	
+}
+
+/* Links inside the dropdown */
+.dropdown-content2b li {
+	color: white;
+	padding: 10px;
+	height: 20px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content2b a:hover {
+	color: #F9F229;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content2b {
+    display: flex;
+	background-image: url(../../image/drop1.png);
+	left: 220px;
+    width:800px;
+	top: 116px;
+}
+
+.dropdown-content3b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content3b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content3b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content3b {
+    display: flex;
+	background-image: url(../../image/drop2.png);
+	left: 220px;
+    width:800px;
+	top: 146px;
+}
+
+
+.dropdown-content4b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content4b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content4b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content4b {
+    display: flex;
+	background-image: url(../../image/drop3.png);
+	left: 220px;
+    width:800px;
+	top: 176px;
+}
+
+
+.dropdown-content5b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content5b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content5b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content5b {
+    display: flex;
+	background-image: url(../../image/drop4.png);
+	left: 220px;
+    width:800px;
+	top: 206px;
+}
+
+
+.dropdown-content6b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content6b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content6b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content6b {
+    display: flex;
+	background-image: url(../../image/drop5.png);
+	left: 220px;
+    width:800px;
+	top: 236px;
+}
+
+
+.dropdown-content7b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content7b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content7b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content7b {
+    display: flex;
+	background-image: url(../../image/drop6.png);
+	left: 220px;
+    width:800px;
+	top: 266px;
+}
+
+
+.dropdown-content8b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content8b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content8b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content8b {
+    display: flex;
+    background-image: url(../../image/drop7.png);
+	left: 220px;
+    width:800px;
+	top: 296px;
+}
+
+
+.dropdown-content9b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content9b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content9b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content9b {
+    display: flex;
+    background-image: url(../../image/drop8.png);
+	left: 220px;
+    width:800px;
+	top: 326px;
+}
+
+
+.dropdown-content10b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content10b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content10b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content10b {
+    display: flex;
+    background-image: url(../../image/drop9.png);
+	left: 220px;
+    width:800px;
+	top: 356px;
+}
+
+.dropdown-content11b {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content11b a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 20px;
+	width: 250px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content11b a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8b:hover .dropdown-content11b {
+    display: flex;
+    background-image: url(../../image/drop10.png);
+	left: 220px;
+    width:800px;
+	top: 386px;
+}
+
+.dropdown-contente {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+    background-color: #f6f6f6;
+	
+}
+
+/* Links inside the dropdown */
+.dropdown-contente a {
+    color: black;
+    text-decoration: none;
+    display: block;
+	padding: 10px;
+	height: 40px;
+    width:800px;
+	
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-contente {
+    display: flex;
+    width:800px;
+	left: 280px;
+	top: 61px;
+}
+
+.dropdown-contente a:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+	color: #EF9523;
+}
+
+.dropdown-content2e {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+	
+}
+
+/* Links inside the dropdown */
+.dropdown-content2e li {
+	color: white;
+	padding: 10px;
+	height: 20px;
+	width: 250px;
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content2e {
+    display: flex;
+	background-image: url(../../image/drop1.png);
+	left: 280px;
+    width:800px;
+	top: 116px;
+}
+
+.dropdown-content3e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content3e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content3e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content3e {
+    display: flex;
+	background-image: url(../../image/drop2.png);
+	left: 280px;
+    width:800px;
+	top: 146px;
+}
+
+
+.dropdown-content4e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content4e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content4e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content4e {
+    display: flex;
+	background-image: url(../../image/drop3.png);
+	left: 280px;
+    width:800px;
+	top: 176px;
+}
+
+
+.dropdown-content5e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content5e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content5e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content5e {
+    display: flex;
+	background-image: url(../../image/drop4.png);
+	left: 280px;
+    width:800px;
+	top: 206px;
+}
+
+
+.dropdown-content6e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content6e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content6e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content6e {
+    display: flex;
+	background-image: url(../../image/drop5.png);
+	left: 280px;
+    width:800px;
+	top: 236px;
+}
+
+
+.dropdown-content7e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content7e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content7e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content7e {
+    display: flex;
+	background-image: url(../../image/drop6.png);
+	left: 280px;
+    width:800px;
+	top: 266px;
+}
+
+
+.dropdown-content8e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content8e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content8e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content8e {
+    display: flex;
+    background-image: url(../../image/drop7.png);
+	left: 280px;
+    width:800px;
+	top: 296px;
+}
+
+
+.dropdown-content9e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content9e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content9e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content9e {
+    display: flex;
+    background-image: url(../../image/drop8.png);
+	left: 280px;
+    width:800px;
+	top: 326px;
+}
+
+
+.dropdown-content10e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content10e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 10px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content10e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content10e {
+    display: flex;
+    background-image: url(../../image/drop9.png);
+	left: 280px;
+    width:800px;
+	top: 356px;
+}
+
+
+.dropdown-content11e {
+    display: none;
+    position: absolute;
+}
+
+/* Links inside the dropdown */
+.dropdown-content11e a {
+    text-decoration: none;
+	color: white;
+	font-size: 13px;
+	padding: 10px;
+	height: 20px;
+	width: 250px;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content11e a:hover {
+	color: #BEE825;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,5);
+}
+
+/* Show the dropdown menu on hover */
+.navbar8e:hover .dropdown-content11e {
+    display: flex;
+    background-image: url(../../image/drop10.png);
+	left: 280px;
+    width:800px;
+	top: 386px;
+}
+
+

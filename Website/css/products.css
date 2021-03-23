@@ -1,0 +1,84 @@
+.products-layer{
+	height:1250px;
+}
+
+.content{
+	width:1000px;
+	height:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#000;
+}
+
+#title{
+	position:relative;
+	top:85px;
+	width:1000px;
+	height:auto;
+	background-color:#76B900;
+}
+
+#title h2{
+	font-family:Venus Rising;
+	font-size:18px;
+	position:relative;
+	top:3px;
+	margin-left:825px;
+	color:#FFFFFF;
+}
+
+.sub-title{
+	width:800px;
+	height:700px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#76B900;
+}
+
+#paragraf{
+	height:100px;
+	margin-top:180px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#76B900;
+}
+
+#paragraf h3{
+	position:relative;
+	top:10px;
+	font-family:Venus Rising;
+}
+
+#paragraf p{
+	font-family:HandelGothic BT;
+}
+
+.img {
+    margin-left: 14px;
+    border: 1px solid #fff;
+    float: left;
+    width: 180px;
+}	
+
+.img:hover {
+	background-color:#000;
+	color:#76B900;
+    border: 1px solid #000;
+}
+
+.img img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+	height:375px;
+	margin-right:40px;
+	font-family:HandelGothic BT;
+	font-size:14px;
+    text-align: center;
+}
+
+.desc li{
+	list-style:none;
+}

@@ -1,0 +1,20 @@
+.news-layer{
+	height:650px;
+}
+
+.content{
+	width:1000px;
+	height:400px;
+	position:absolute;
+	margin-left:175px; color:#fff;
+	font-family:HandelGothic BT; font-size:14px;
+}
+
+.content h1{
+	color:#76B900;
+}
+
+.content a{
+	text-decoration:none;
+	color:#76B900;
+}

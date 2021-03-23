@@ -1,0 +1,127 @@
+#navv{
+	width:100%;
+	height:35px;
+	margin-top: -150px;
+    font-size: 16px;
+    font-family: OneNikeCurrency,Helvetica,Arial,sans-serif;
+    min-width: 1348px;
+	position: fixed;
+	background-image: url(../../image/nav1.png);
+	z-index:99999;
+}
+
+.layer1{
+	background:grey;
+}
+
+#kotak{
+	height:1300px;
+	width: 1090px;
+	margin-top: 150px;
+	margin-left: 130px;
+	background: black ;
+	box-shadow:2px -2px 1px 2px white;
+}
+
+#kotak p{
+	color: white;
+	padding: 10px;
+	font-size: 30px;
+	margin-left: 20px;
+}
+
+.batas{
+	margin-top: -1240px;
+}
+
+.batas1{
+	margin-left: 380px;
+}
+#stadionkontainer{
+	float:left;
+	border-top:2px solid black;
+	width:510px;
+	height:296px;
+	margin-left: 10px;
+}
+
+#stadionkontainer1{
+	float:left;
+	border-top:2px solid black;
+	width:510px;
+	height:296px;
+	margin-left: 10px;
+}
+
+#stadionkontainer2{
+	float:left;
+	border-top:2px solid black;
+	width:510px;
+	height:296px;
+	margin-top: -800px;
+	margin-left: 680px;
+}
+
+#divheadmini{
+background-image: url(../../image/nav4.png);
+height:37px;
+width:auto;
+margin:0px;
+font-family:Bebas Neue;
+color:white;
+font-size:20pt;
+
+}
+
+#divheadmini p{
+margin-top:0px;
+margin-left:10px;
+}
+#divheadmini img{
+vertical-align:middle;
+width:35px;
+height:35px;
+}
+
+#oldtrafford1{
+	position:relative;
+	width:510px;
+	max-height:296px;
+}
+
+#oldtrafford1 img{
+	width:100%;
+	height:260px;
+}
+
+#oldtrafford1 a:hover > #visit1{
+	height:45px;
+}
+
+#visit1{
+	width:512px;
+	height:0px;
+	background:rgba(0,0,0,0.8);
+	position:absolute;
+	bottom:0;
+	transition:all 0.2s ease;
+	color:white;
+	font-family:bebas neue;
+	z-index:9999;
+	overflow:hidden;
+	font-size:20pt;
+}
+
+
+#visit1  td{
+	text-align:center;
+	color:white;
+	font-size:20pt;
+	border:none;
+	width:400px;
+	transition:all 0.2s ease;
+}
+
+#visit1 td:hover{
+	color:black ;
+}

@@ -1,0 +1,97 @@
+
+[class^='imghvr-'], [class*=' imghvr-'] {
+  position: relative;
+  display: inline-block;
+  margin: 0px;
+  max-width: 100%;
+  background-color: #79DADC;
+  color: #000;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0); }
+  [class^='imghvr-'] > img, [class*=' imghvr-'] > img {
+    vertical-align: top;
+    max-width: 100%; }
+  [class^='imghvr-'] figcaption, [class*=' imghvr-'] figcaption {
+    background-color: #79DADC;
+    position: absolute;
+    padding: 30px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0px;
+	height: 450px;}
+
+[class^='imghvr-'], [class*=' imghvr-'], [class^='imghvr-']:before,
+[class^='imghvr-']:after, [class*=' imghvr-']:before, [class*=' imghvr-']:after,
+[class^='imghvr-'] *, [class*=' imghvr-'] *, [class^='imghvr-'] *:before,
+[class^='imghvr-'] *:after, [class*=' imghvr-'] *:before, [class*=' imghvr-'] *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  -moz-transition: all 0.35s ease;
+  transition: all 0.35s ease; }
+
+
+/* imghvr-cube-*
+  ----------------------------- */
+[class^='imghvr-cube-'], [class*=' imghvr-cube-'] {
+  -webkit-perspective: 50em;
+  -moz-perspective: 50em;
+  perspective: 50em;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  overflow: visible;
+  background-color: transparent; }
+  [class^='imghvr-cube-'] > img, [class*=' imghvr-cube-'] > img {
+    -webkit-transition-delay: 0.05s;
+    -moz-transition-delay: 0.05s;
+    transition-delay: 0.05s; }
+  [class^='imghvr-cube-'] figcaption, [class*=' imghvr-cube-'] figcaption {
+    opacity: 0;
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    transition-delay: 0s;
+    background-color: #79DADC;
+	left: 80px;}
+  [class^='imghvr-cube-']:hover > img, [class*=' imghvr-cube-']:hover > img {
+    opacity: 0;
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    transition-delay: 0s; }
+  [class^='imghvr-cube-']:hover figcaption, [class*=' imghvr-cube-']:hover figcaption {
+    -webkit-transform: translateY(0%) rotateX(0deg);
+    -moz-transform: translateY(0%) rotateX(0deg);
+    -ms-transform: translateY(0%) rotateX(0deg);
+    -o-transform: translateY(0%) rotateX(0deg);
+    transform: translateY(0%) rotateX(0deg);
+    opacity: 1;
+    -webkit-transition-delay: 0.05s;
+    -moz-transition-delay: 0.05s;
+    transition-delay: 0.05s; }
+
+/* imghvr-cube-left
+  ----------------------------- */
+.imghvr-cube-left figcaption {
+  -webkit-transform: translateX(-50%) rotateY(-90deg);
+  -moz-transform: translateX(-50%) rotateY(-90deg);
+  -ms-transform: translateX(-50%) rotateY(-90deg);
+  -o-transform: translateX(-50%) rotateY(-90deg);
+  transform: translateX(-50%) rotateY(-90deg); }
+.imghvr-cube-left:hover > img {
+  -webkit-transform: translateX(50%) rotateY(90deg);
+  -moz-transform: translateX(50%) rotateY(90deg);
+  -ms-transform: translateX(50%) rotateY(90deg);
+  -o-transform: translateX(50%) rotateY(90deg);
+  transform: translateX(50%) rotateY(90deg); }

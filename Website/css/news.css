@@ -1,0 +1,59 @@
+.newsfoto{
+	top: 100px;
+	left: 30px;
+	position: relative;
+}
+
+.judulnews{
+	width: 50%;
+	top: -330px;
+	left: 660px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
+
+.isinews{
+	top: -300px;
+	left: -123px;
+	position: relative;
+    font: normal 18px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: justify;
+	width: 40%;
+	float: right;
+	color: #575757;
+}
+
+.judulnews2{
+	width: 50%;
+	top: 100px;
+	left: 200px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
+
+.isinews2{
+	top: 130px;
+	left: -213px;
+	position: relative;
+    font: normal 18px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: justify;
+	width: 40%;
+	float: right;
+	color: #575757;
+}
+
+.newsfoto1{
+	top: -230px;
+	left: 700px;
+	position: relative;
+}

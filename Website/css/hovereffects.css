@@ -1,0 +1,239 @@
+#navv{
+	width:100%;
+	height:35px;
+	margin-top: -220px;
+    font-size: 16px;
+    font-family: OneNikeCurrency,Helvetica,Arial,sans-serif;
+    min-width: 1348px;
+	position: fixed;
+	background-image: url(../../image/nav1.png);
+	z-index:99999;
+}
+
+.layer1{
+	background:#D0D2D3;
+}
+
+.atas h1{
+	top: -250px;
+	left: 200px;
+	position: relative;
+	font-family: OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+#kotak{
+	height:1290px;
+	width: 1150px;
+	margin-top: 220px;
+	margin-left: 100px;
+	background: black;
+	box-shadow:2px -2px 1px 2px #79DADC;
+	border-radius: 0 0 30px 30px;
+}
+
+
+.batas{
+	margin-top: -1490px;
+}
+
+#kotak2{
+	height:1290px;
+	width: 1150px;
+	margin-top: 220px;
+	margin-left: 100px;
+	background: black;
+	box-shadow:2px -2px 1px 2px #79DADC;
+	border-radius: 0 0 30px 30px;
+}
+
+
+.batas2{
+	margin-top: -1420px;
+}
+
+.atas2{
+	top:30px;
+	left: 70px;
+	position: relative;
+}
+
+.atas2 img{
+	width: 90%;
+	height: 300px;
+	border-radius: 30px 30px 30px 30px;
+}
+
+.batas1{
+	margin-left: 380px;
+}
+
+#naik{
+	bottom: 1133px;
+	left: 620px;
+}
+
+.grid {
+	max-width: 1300px;
+	margin: 0 auto;
+	list-style: none;
+}
+
+.grid li {
+	left: 60px;
+	display: inline-block;
+	width: 540px;
+	margin: 0;
+	padding: 40px;
+	text-align: left;
+	position: relative;
+}
+
+.grid figure {
+	margin: 0px;
+	position: relative;
+}
+
+.grid figure img {
+	height: 237px;
+	display: block;
+	position: relative;
+}
+
+.grid figcaption {
+	position: absolute;
+	top: 0;
+	left: 0px;
+	padding: 10px;
+	background: #79DADC;
+	color: #02F5CC;
+}
+
+.grid figcaption h3 {
+	margin: 0px;
+	padding: 0;
+	color: #fff;
+}
+
+.grid figcaption span:before {
+	content: 'by ';
+}
+
+.grid figcaption a {
+	text-align: center;
+	padding: 5px 10px;
+	border-radius: 2px;
+	display: inline-block;
+	background: #08B9EF;
+	color: #fff;
+}
+
+.cs-style-2 figure img {
+	z-index: 10;
+	-webkit-transition: -webkit-transform 0.4s;
+	-moz-transition: -moz-transform 0.4s;
+	transition: transform 0.4s;
+}
+
+.no-touch .cs-style-2 figure:hover img,
+.cs-style-2 figure.cs-hover img {
+	-webkit-transform: translateY(-80px);
+	-moz-transform: translateY(-80px);
+	-ms-transform: translateY(-80px);
+	transform: translateY(-80px);
+}
+
+.cs-style-2 figcaption {
+	height: 60px;
+	width: 520px;
+	top: auto;
+	bottom: 0;
+}
+
+.cs-style-2 figcaption a {
+	position: absolute;
+	right: 20px;
+	top: 30px;
+}
+
+.cs-style-4 li {
+	-webkit-perspective: 1700px;
+	-moz-perspective: 1700px;
+	perspective: 1700px;
+	-webkit-perspective-origin: 0 50%;
+	-moz-perspective-origin: 0 50%;
+	perspective-origin: 0 50%;
+}
+
+.cs-style-4 figure {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+.cs-style-4 figure > div {
+	overflow: hidden;
+}
+
+.cs-style-4 figure img {
+	-webkit-transition: -webkit-transform 0.4s;
+	-moz-transition: -moz-transform 0.4s;
+	transition: transform 0.4s;
+}
+
+.no-touch .cs-style-4 figure:hover img,
+.cs-style-4 figure.cs-hover img {
+	-webkit-transform: translateX(14%);
+	-moz-transform: translateX(14%);
+	-ms-transform: translateX(14%);
+	transform: translateX(14%);
+}
+
+.cs-style-4 figcaption {
+	height: 92%;
+	width: 30%;
+	opacity: 0;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transform-origin: 0 0;
+	-moz-transform-origin: 0 0;
+	transform-origin: 0 0;
+	-webkit-transform: rotateY(-90deg);
+	-moz-transform: rotateY(-90deg);
+	transform: rotateY(-90deg);
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+	transition: transform 0.4s, opacity 0.1s 0.3s;
+}
+
+.no-touch .cs-style-4 figure:hover figcaption,
+.cs-style-4 figure.cs-hover figcaption {
+	opacity: 1;
+	-webkit-transform: rotateY(0deg);
+	-moz-transform: rotateY(0deg);
+	transform: rotateY(0deg);
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+	-moz-transition: -moz-transform 0.4s, opacity 0.1s;
+	transition: transform 0.4s, opacity 0.1s;
+}
+
+.cs-style-4 figcaption a {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
+.hvr-glow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+}
+.hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}

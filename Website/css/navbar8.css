@@ -1,0 +1,131 @@
+.navbar8a{
+	display: inline-block;
+	margin-left: 250px;
+	margin-top: 13px;
+	font: normal bold 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: center;
+}
+	
+.navbar8a li {
+	width: 	90px;
+	float: left; 
+	list-style: none;
+    color: #8D8D8D;
+}
+						
+.navbar8a a {		
+	text-decoration: none;
+	color: black; 
+	display: block;
+	height: 38px;
+	width: 100px;
+}
+		
+.navbar8a a:hover{
+	color:#79DADC;
+}
+
+.navbar8b{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 13px;
+	font: normal bold 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: center;
+}
+	
+.navbar8b li {
+	width: 	90px;
+	float: left; 
+	list-style: none;
+    color: #8D8D8D;
+}
+						
+.navbar8b a {		
+	text-decoration: none;
+	color: black; 
+	display: block;
+	height: 38px;
+	width: 100px;
+}
+		
+.navbar8b a:hover{
+	color:#79DADC;
+}
+
+.navbar8c{
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 13px;
+	font: normal bold 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: center;
+}
+	
+.navbar8c li {
+	width: 	90px;
+	float: left; 
+	list-style: none;
+    color: #8D8D8D;
+}
+						
+.navbar8c a {		
+	text-decoration: none;
+	color: black; 
+	display: block;
+	height: 50px;
+}
+		
+.navbar8c a:hover{
+	color:#79DADC;
+}
+
+.navbar8d{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 13px;
+	font: normal bold 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: center;
+}
+	
+.navbar8d li {
+	width: 	90px;
+	float: left; 
+	list-style: none;
+    color: #8D8D8D;
+}
+						
+.navbar8d a {		
+	text-decoration: none;
+	color: black; 
+	display: block;
+	height: 50px;
+}
+		
+.navbar8d a:hover{
+	color:#79DADC;
+}
+
+.navbar8e{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 13px;
+	font: normal bold 16px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	text-align: center;
+}
+	
+.navbar8e li {
+	width: 	90px;
+	float: left; 
+	list-style: none;
+    color: #8D8D8D;
+}
+						
+.navbar8e a {		
+	text-decoration: none;
+	color: black; 
+	display: block;
+	height: 50px;
+}
+		
+.navbar8e a:hover{
+	color:#79DADC;
+}

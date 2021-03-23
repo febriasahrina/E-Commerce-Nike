@@ -1,0 +1,266 @@
+.list {
+	width: 220px;
+	padding: 15px;
+	position: fixed;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif; 
+	margin-top: 130px;
+	margin-left:20px;
+	border-bottom-style: ridge;
+	text-decoration: none;
+}
+
+.list2{
+	line-height: 70px;
+	height:auto;
+	position: absolute;
+}
+
+.list3{
+	line-height: 130px;
+	left: 20px;
+	position: absolute;
+}
+
+.list4{
+	line-height: 180px;
+	left: 20px;
+	position: absolute;
+}
+
+.list5{
+	line-height: 230px;
+	left: 20px;
+	position: absolute;
+}
+
+.list6{
+	line-height: 280px;
+	left: 20px;
+	position: absolute;
+}
+
+.list7{
+	line-height: 330px;
+	left: 20px;
+	position: absolute;
+}
+
+.list8{
+	line-height: 380px;
+	left: 20px;
+	position: absolute;
+}
+.listn{
+	line-height: 430px;
+	left: 20px;
+	position: absolute;
+}
+
+.lista {
+	width: 350px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 460px;
+	left: 310px;
+	text-decoration: none;
+	height: 25px;
+}
+
+.listb {
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 1480px;
+	left: 310px;
+	text-decoration: none;
+}
+
+.listc {
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 1820px;
+	left: 310px;
+	text-decoration: none;
+}
+
+.listd {
+	width: 250px;
+	height: 26px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 2160px;
+	left: 310px;
+	text-decoration: none;
+}
+
+.liste {
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 800px;
+	left: 310px;
+	text-decoration: none;
+}
+
+.listf {
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	font: normal  14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin-top: 1140px;
+	left: 310px;
+	text-decoration: none;
+}
+
+.list9 img{
+	margin-top: 10px;
+	width: 224px;
+	height: 220;
+	position: absolute;
+}
+
+.list9a {
+	top: 270px;
+	width: 220px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	border-bottom-style: ridge;
+	text-decoration: none;
+}
+
+.list9b {
+	top: 295px;
+	width: 220px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	text-decoration: none;
+}
+
+.list9c {
+	top: 315px;
+	width: 220px;
+	position: absolute;
+	list-style: none;
+	float: none;
+	text-decoration: none;
+}
+
+.list10 img{
+	left:250px;
+	margin-top: 10px;
+	width: 224px;
+	height: 220;
+	position: absolute;
+}
+
+.list10a {
+	top: 270px;
+	left: 250px;
+	width: 220px;
+	position: absolute;
+	border-bottom-style: ridge;
+}
+
+.list10b {
+	top: 295px;
+	left: 250px;
+	width: 220px;
+	position: absolute;
+}
+
+.list10c {
+	top: 315px;
+	left: 250px;
+	width: 220px;
+	position: absolute;
+}
+
+.list11 img{
+	left:500px;
+	margin-top: 10px;
+	width: 224px;
+	height: 220;
+	position: absolute;
+}
+
+.list11a {
+	top: 270px;
+	left: 500px;
+	width: 220px;
+	position: absolute;
+	border-bottom-style: ridge;
+}
+
+.list11b {
+	top: 295px;
+	left: 500px;
+	width: 220px;
+	position: absolute;
+}
+
+.list11c {
+	top: 315px;
+	left: 500px;
+	width: 220px;
+	position: absolute;
+}
+
+.list12 img{
+	left:750px;
+	margin-top: 10px;
+	width: 224px;
+	height: 220;
+	position: absolute;
+}
+
+.list12a {
+	top: 270px;
+	left: 750px;
+	width: 220px;
+	position: absolute;
+	border-bottom-style: ridge;
+}
+
+.list12b {
+	top: 295px;
+	left: 750px;
+	width: 220px;
+	position: absolute;
+}
+
+.list12c {
+	top: 315px;
+	left: 750px;
+	width: 220px;
+	position: absolute;
+}
+
+.imgg {
+	margin-top: 100px;
+	margin-left: 310px;
+	position: absolute;
+}
+
+.imgg img{
+	width: 1039px;
+}

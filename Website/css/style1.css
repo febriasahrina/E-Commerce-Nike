@@ -1,0 +1,306 @@
+element.style {
+}
+div, form, h1, h2, h3, h4, h5, h6, input, li, ol, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body.nsg-font-family--base.Desktop.Windows
+.nsg-font-family--base {
+    font-style: normal;
+    font-weight: 400;
+}
+
+.nsg-font-family--base, .nsg-font-family--base-b, .nsg-font-family--base-i {
+    font-family: OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+
+[class*=nsg-glyph--]:before, body {
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+button, html, input, select, textarea {
+    font-family: sans-serif;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body{
+	background-image: url(../../image/back.jpg);
+	width: 100%;
+	margin-left: auto;
+	margin-top: auto;
+	-webkit-font-smoothing: antialiased;
+    margin: 0;
+	display: block;
+	
+	
+}
+	
+.layer{
+	height:900px;
+	
+}
+
+#header{
+	width:1000px;
+	height:90px;
+	background-color:#FFFFFF;
+	padding-top:35px;
+}
+
+#logo{
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.logo1{
+    padding: 0;
+	margin-left:auto;
+	margin-right:auto; 
+	position:relative;
+	z-index:1;
+    min-width: 1000px;
+	height: 68px;
+    width: 58px;
+}
+
+.logo1 li {
+	height: 68px;
+    width: 58px;
+	float: left; 
+	text-align: center;
+	list-style: none;
+	font: normal bold 16px/1.2em OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	padding: 0;
+	margin: 1px;
+	border: 1px;
+    line-height: 39px;
+    border-bottom: 1px solid #E5E5E5;
+    background: white;
+    color: #8D8D8D;
+}
+
+.logo1 a {							
+	padding: 0px; 
+	text-decoration: none;
+	color: black; 
+	display: block;
+}
+
+.logo1 a:hover{
+	color:#D1C7C7;
+}
+
+
+#nav{
+	width:auto;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+    font-size: 16px;
+    font-family: OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+
+.navbar1{
+	width:inherit;
+	height:inherit;
+    padding: 0;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	z-index:1;
+}
+	
+.navbar1 li {
+	height: 39px;
+	width: 150px;
+	float: left; 
+	text-align: center;
+	list-style: none;
+	font: normal bold 16px/1.2em OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	padding: 0;
+	margin: 1px;
+    line-height: 39px;
+    border-bottom: 1px solid #E5E5E5;
+    background: white;
+    color: #8D8D8D;
+}
+						
+.navbar1 a {							
+	padding: 0px; 
+	text-decoration: none;
+	color: #8D8D8D; 
+	display: block;
+}
+		
+.navbar1 a:hover{
+	color:#000000;
+}
+
+.navbar2{
+    padding: 0;
+	position:relative;
+	z-index:1;
+	padding-left: 166px;
+	
+}
+	
+.navbar2 li {
+	height: 39px;
+	width: 120px;
+	float: left; 
+	text-align: center;
+	list-style: none;
+	font: normal bold 16px/1.2em OneNikeCurrency,Helvetica,Arial,sans-serif;
+	margin: 1px;
+    line-height: 39px;
+    border-bottom: 1px solid #E5E5E5;
+    background: white;
+    color: #8D8D8D;
+}
+
+.navbar2 a	{							
+	padding: 5px; 
+	text-decoration: none;
+	display: block;
+}
+
+.navbar4{
+    padding: 0;
+	position:relative;
+	z-index:1;
+}
+	
+.navbar4 li {
+	height: 39px;
+	width: 600px;
+	float: left; 
+	text-align: center;
+	list-style: none;
+	font: normal bold 16px/1.2em OneNikeCurrency,Helvetica,Arial,sans-serif;  
+	margin: 1px;
+    line-height: 39px;
+    border-bottom: 1px solid #E5E5E5;
+    background: white;
+    color: #8D8D8D;
+}
+						
+.navbar4 a {							
+	padding: 0px; 
+	text-decoration: none;
+	color: #8D8D8D; 
+	display: block;
+}
+		
+.navbar4 a:hover{
+	color:#000000;
+}
+
+#search{
+	width:175px;
+	height:38px;
+	float:right;
+	margin-top:10px;
+	margin-right:80px;
+}
+
+input {
+	outline: none;
+	float:right;
+}
+input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+	display: none; 
+}
+
+input[type=search] {
+	background: #ededed url(../img/search-icon.png) no-repeat 9px center;
+	border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+	width: 55px;
+	
+	-webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+	
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+input[type=search]:focus {
+	width: 130px;
+	background-color: #fff;
+	border-color: #66CC75;
+	
+	-webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	-moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	box-shadow: 0 0 5px rgba(109,207,246,.5);
+}
+
+
+input:-moz-placeholder {
+	color: #999;
+}
+input::-webkit-input-placeholder {
+	color: #999;
+}
+
+
+.slideshow{
+	width:1000px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#products{
+	width:1000px;
+	height:520px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:20px;
+	background-color:#000000;
+}
+
+.footer{
+	width:1000px;
+	position:relative;
+	height:30px;
+	top:480px;
+}
+
+.footer a{
+	font-family:Venus Rising;
+	margin-left:-850px;
+	text-decoration:none;
+	color:#76B900;
+}
+
+.semi-footer{
+	width:1000px;
+	height:100px;
+	font-family: PositecBold;
+	margin-left:auto;
+	margin-right:auto;
+	background:rgba(118,185,0,0.5);
+}
+
+.semi-footer img{
+	margin-top: 25px;
+}

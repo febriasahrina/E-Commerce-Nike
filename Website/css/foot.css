@@ -1,0 +1,294 @@
+#foot{
+	padding: 10px;
+	margin-top: 20px;
+	position:absolute;
+	background-color: black;
+	height:400px;
+	width: auto;
+	color: #79DADC;
+}
+
+#foota{
+	padding: 10px;
+	margin-top: 0px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+}
+
+#footb{
+	padding: 10px;
+	top: 1000px;
+	position:relative;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+}
+
+#footc{
+	padding: 10px;
+	margin-top: 200px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+}
+
+#footf{
+	padding: 10px;
+	margin-top: 1250px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+}
+
+.footer{
+    padding: 1px 1px;
+	margin-left: 100px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.footer a{
+	line-height: 28px;
+	text-decoration:none;
+	color:white;
+}
+
+.footer :hover{
+	color: #79DADC;
+}
+
+.footer li{
+	width: 235px;
+	float: left;
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.footer3{
+	width: 100%;
+	text-align: center;
+	margin-top: 180px;
+	margin-left: -280px;
+}
+.footer3 a{
+	text-decoration:none;
+	color: #79DADC;
+}
+
+.footer3 li{
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+	
+#footm{
+	padding: 10px;
+	margin-top: -1120px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+}
+	
+.footerm{
+    padding: 1px 1px;
+	margin-left: 100px;
+	margin-top: 30px;
+	position: relative;
+	color: #79DADC;
+	
+}
+
+.footerm a{
+	line-height: 28px;
+	text-decoration:none;
+	color:white;
+}
+
+.footerm :hover{
+	color: #79DADC;
+}
+
+.footerm li{
+	width: 235px;
+	float: left;
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.footerm3{
+	width: 100%;
+	text-align: center;
+	margin-top: 210px;
+	margin-left: -280px;
+}
+
+.footerm3 a{
+	text-decoration:none;
+	color: #79DADC;
+}
+
+.footerm3 li{
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+
+#footn{
+	padding: 10px;
+	margin-top: 20px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+	margin-top: 2550px;
+}
+
+.footern{
+    padding: 1px 1px;
+	margin-left: 100px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.footern a{
+	line-height: 28px;
+	text-decoration:none;
+	color:white;
+}
+
+.footern li{
+	width: 235px;
+	float: left;
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.footern3{
+	width: 100%;
+	text-align: center;
+	margin-top: 210px;
+	margin-left: -280px;
+}
+.footern3 a{
+	text-decoration:none;
+	color: #79DADC;
+}
+
+.footern :hover{
+	color: #79DADC;
+}
+
+.footern3 li{
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+
+#footn1{
+	padding: 10px;
+	margin-top: 20px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+	margin-top: 2250px;
+}
+
+.footern1{
+    padding: 1px 1px;
+	margin-left: 100px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.footern1 a{
+	line-height: 28px;
+	text-decoration:none;
+	color:white;
+}
+
+.footern1 li{
+	width: 235px;
+	float: left;
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.footern13{
+	width: 100%;
+	text-align: center;
+	margin-top: 210px;
+	margin-left: -280px;
+}
+.footern13 a{
+	text-decoration:none;
+	color: #79DADC;
+}
+
+.footern1 :hover{
+	color: #79DADC;
+}
+
+.footern13 li{
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+}
+
+#footn2{
+	padding: 10px;
+	margin-top: 20px;
+	position:absolute;
+	background-color: black;
+	height:300px;
+	width: auto;
+	color: #79DADC;
+	margin-top: 850px;
+}
+
+.footern2{
+    padding: 1px 1px;
+	margin-left: 100px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.footern2 a{
+	line-height: 28px;
+	text-decoration:none;
+	color:white;
+}
+
+.footern2 li{
+	width: 235px;
+	float: left;
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;  
+}
+
+.footern23{
+	width: 100%;
+	text-align: center;
+	margin-top: 210px;
+	margin-left: -280px;
+}
+.footern23 a{
+	text-decoration:none;
+	color: #79DADC;
+}
+
+.footern2 :hover{
+	color: #79DADC;
+}
+
+.footern23 li{
+	list-style: none;
+	font: normal 14px OneNikeCurrency,Helvetica,Arial,sans-serif;
+}

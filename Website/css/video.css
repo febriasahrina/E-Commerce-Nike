@@ -1,0 +1,156 @@
+.halaman_video{
+	width: 86%;
+	position: relative;
+	margin: 0 7%;
+	background: #F1F1F1;
+	float: left;
+}
+
+.subscribe{
+	text-align: center;
+	top: 120px;
+	position: relative;
+	width: 100%;
+	height: auto;
+	display: table;
+	background-image: url(../../image/Iklan/layer.jpg);
+	border-radius: 10px;
+	margin-bottom: 50px;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.subscribe h1{
+	font-family: 'teko';
+	padding: 30px 15px;
+	font-size: 57px;
+	color: #fff;
+	font-weight: 100;
+}
+
+.video1{
+	width: 48%;
+	top: 100px;
+	position: relative;
+	background: white;
+	
+}
+
+.video1 video{
+	border: none;
+	padding-top: 10px;
+	padding-left: 20px;
+	position: relative;
+}
+
+.video{
+	width: 50%;
+	top: -50px;
+	left: 20px;
+	position: relative;
+	background: white;
+	
+}
+
+.video video{
+	border: none;
+	padding-top: 15px;
+	position: relative
+	left: -0px;
+}
+
+.video2{
+	width: 50%;
+	top: 100px;
+	left:-10px;
+	position: relative;
+	background: white;
+	
+}
+
+.video2 video{
+	border: none;
+	padding-top: 15px;
+	position: relative;
+	left: -0px;
+}
+
+.judulvideo{
+	width: 48%;
+	background: white;
+	position: relative;
+	height: 50px;
+}
+
+.judulvideo h3{
+	top: 10px;
+	left: 130px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
+
+.judulvideo1{
+	width: 50%;
+	background: white;
+	position: relative;
+	height: 50px;
+	left: 600px;
+	top: 160px;
+}
+
+.judulvideo1 h3{
+	top: 10px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
+
+.judulvideo2{
+	width: 48%;
+	background: white;
+	position: relative;
+	height: 50px;
+}
+
+.judulvideo2 h3{
+	top: 13px;
+	left: 170px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
+
+.judulvideo3{
+	width: 50%;
+	background: white;
+	position: relative;
+	height: 50px;
+	left: 600px;
+	top: 160px;
+}
+
+.judulvideo3 h3{
+	top: 10px;
+	left: 80px;
+	position: relative;
+	color: #101010;
+    font-family: "TradeGothic-BoldCond", "Arial black", "Arial Bold", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    text-transform: uppercase;
+	color: #575757;
+}
